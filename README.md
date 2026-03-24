@@ -1,18 +1,23 @@
 # Hi, I'm Sam
 
-Full-stack engineer building production applications with **React**, **TypeScript**, and **AI**. Currently at DoorDash, where I've shipped 3 production apps, authored 68,000+ lines of code, and merged PRs to a 30M-line monorepo.
+Full-stack engineer at **DoorDash** (3.5 years). Non-traditional path: EMT and crisis response team lead with the Phoenix Fire Department, then self-taught into engineering through operations roles. Now shipping production AI platforms, building AI agents, and architecting enterprise integrations.
 
-I build tools that solve real problems — from workforce analytics platforms to AI-powered support tools to voice assistants that run entirely on your machine.
+**Currently open to SWE, Forward Deployed Engineer, and Solutions Architect roles.**
 
-## What I'm Working On
+## What I've Built at DoorDash
 
-**[Agent OS](https://github.com/desertcache/agent-os)** — Turn Claude Code from a stateless tool into a persistent, self-improving agent. Hooks, skills, memory, and session lifecycle management.
+- 3 production platforms (React, TypeScript, GraphQL, Snowflake)
+- 3 AI agents on Glean (76 MAU, 6,846 queries)
+- $90K migration program protecting $21M/month merchant revenue
+- AI workshops for 180+ directors, driving org-wide AI adoption
 
-**[Samantha UI](https://github.com/desertcache/samantha-ui)** — Audio-reactive 3D visualization built with React 19, TypeScript, and Three.js. Liquid glass aesthetics with real-time WebGL shaders.
+## Side Projects
 
-**[Velvet](https://github.com/desertcache/velvet)** — Local speech-to-text with a glass UI and audio-reactive 3D orb. Electron + faster-whisper + Three.js. No API keys, no cloud.
+**[Agent OS](https://github.com/desertcache/agent-os)** - Open-source agent orchestration for Claude Code. Hooks, skills, memory, and session lifecycle management.
 
-**[AI Radio](https://github.com/desertcache/ai-radio)** — AI-powered radio station with live DJ commentary, Spotify playback, real-time audio visualization, and a liquid glass React UI.
+**[Samantha UI](https://github.com/desertcache/samantha-ui)** - Audio-reactive 3D visualization. React 19, Three.js, custom GLSL shaders, 60fps rendering.
+
+**[Velvet](https://github.com/desertcache/velvet)** - Local speech-to-text with a glass UI and 3D audio-reactive orb. Electron + faster-whisper. No API keys, no cloud.
 
 ## Tech Stack
 
@@ -21,13 +26,9 @@ I build tools that solve real problems — from workforce analytics platforms to
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ## Links
 
-- [Portfolio](https://desertcache.github.io/portfolio/)
-- [Email](mailto:batessambates@gmail.com)
+- [Portfolio](https://desertcache.github.io/portfolio/) | [Email](mailto:batessambates@gmail.com) | [LinkedIn](https://www.linkedin.com/in/samuel-b-343205133)
