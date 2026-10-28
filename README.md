@@ -17,6 +17,7 @@ Claude Code is my daily engineering environment: custom skills, hooks, MCP serve
 
 ## Side projects
 
+- **[Answer Finder](https://desertcache.github.io/ask/)**: the ask bar on my portfolio. A 4 MB model on your own device matches your question to answers I approved. Nothing is generated, so it can't make things up. [Source](https://github.com/desertcache/ask) and [how it was evaluated](https://desertcache.github.io/portfolio/work/answer-finder.html).
 - **[Samantha UI](https://github.com/desertcache/samantha-ui)**: audio-reactive 3D visualization. React 19, Three.js, custom GLSL shaders, 60fps.
 - **[Velvet](https://github.com/desertcache/velvet)**: local speech-to-text with a glass UI and a 3D audio-reactive orb. Electron + faster-whisper. No API keys, no cloud.
 - **[AI Radio](https://github.com/desertcache/ai-radio)**: a local AI radio station (Ollama + F5-TTS).
